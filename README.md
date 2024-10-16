@@ -57,4 +57,4 @@ Feel free to fork the repository and submit pull requests.
 
 ## 📬 Contact
 For any inquiries, you can reach me at:
-Email: your-me.mahim99@gmail.com
+Email: me.mahim99@gmail.com
