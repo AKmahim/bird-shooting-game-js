@@ -25,13 +25,14 @@ A fun and simple web-based game built with JavaScript! In **Bird Shooting**, pla
 - Try to score as many points as possible!
 
 ## 📂 Project Structure
-    ```bash
-    /bird-shooting-game
-    │── index.html         # Main HTML file
-    │── audio/             # audio asset folder
-    │── public/            # JavaScript logic
-    │── images/            # Game assets (images, sounds, etc.)
-    ```
+
+``` 
+/bird-shooting-game 
+│── index.html # Main HTML file 
+│── audio/ # Audio asset folder
+│── public/ # JavaScript logic 
+│── images/ # Game assets (images, sounds, etc.) 
+```
 
 ## 🔧 Technologies Used
 - HTML5 for structuring the game.
