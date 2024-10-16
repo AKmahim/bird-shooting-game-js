@@ -16,6 +16,7 @@ A fun and simple web-based game built with JavaScript! In **Bird Shooting**, pla
    ```bash
    git clone https://github.com/AKmahim/bird-shooting-game-js.git
    cd bird-shooting-game
+   ```
 
 ## 🕹️ How to Play
 - Birds will fly across the screen.
@@ -24,12 +25,13 @@ A fun and simple web-based game built with JavaScript! In **Bird Shooting**, pla
 - Try to score as many points as possible!
 
 ## 📂 Project Structure
-
-/bird-shooting-game
-│── index.html         # Main HTML file
-│── audio/             # audio asset folder
-│── public/            # JavaScript logic
-│── images/            # Game assets (images, sounds, etc.)
+    ```bash
+    /bird-shooting-game
+    │── index.html         # Main HTML file
+    │── audio/             # audio asset folder
+    │── public/            # JavaScript logic
+    │── images/            # Game assets (images, sounds, etc.)
+    ```
 
 ## 🔧 Technologies Used
 - HTML5 for structuring the game.
